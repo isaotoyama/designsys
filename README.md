@@ -1,4 +1,4 @@
-# Official ecoATM-UI of ecoATM Applications
+# Official DesignSystem Applications
 
 This is an application for DesignSystem with storybook.
 
