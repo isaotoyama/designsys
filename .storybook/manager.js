@@ -9,7 +9,6 @@ addons.setConfig({
   panelPosition: 'bottom',
   enableShortcuts: true,
   showToolbar: true,
-  theme: undefined,
   selectedPanel: undefined,
   initialActive: 'sidebar',
   sidebar: {
